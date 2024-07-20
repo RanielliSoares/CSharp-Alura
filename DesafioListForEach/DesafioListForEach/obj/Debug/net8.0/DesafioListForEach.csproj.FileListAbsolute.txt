@@ -1,0 +1,15 @@
+D:\Repositorios Github\CSharp-Alura\CSharp-Alura\DesafioListForEach\DesafioListForEach\bin\Debug\net8.0\DesafioListForEach.exe
+D:\Repositorios Github\CSharp-Alura\CSharp-Alura\DesafioListForEach\DesafioListForEach\bin\Debug\net8.0\DesafioListForEach.deps.json
+D:\Repositorios Github\CSharp-Alura\CSharp-Alura\DesafioListForEach\DesafioListForEach\bin\Debug\net8.0\DesafioListForEach.runtimeconfig.json
+D:\Repositorios Github\CSharp-Alura\CSharp-Alura\DesafioListForEach\DesafioListForEach\bin\Debug\net8.0\DesafioListForEach.dll
+D:\Repositorios Github\CSharp-Alura\CSharp-Alura\DesafioListForEach\DesafioListForEach\bin\Debug\net8.0\DesafioListForEach.pdb
+D:\Repositorios Github\CSharp-Alura\CSharp-Alura\DesafioListForEach\DesafioListForEach\obj\Debug\net8.0\DesafioListForEach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios Github\CSharp-Alura\CSharp-Alura\DesafioListForEach\DesafioListForEach\obj\Debug\net8.0\DesafioListForEach.AssemblyInfoInputs.cache
+D:\Repositorios Github\CSharp-Alura\CSharp-Alura\DesafioListForEach\DesafioListForEach\obj\Debug\net8.0\DesafioListForEach.AssemblyInfo.cs
+D:\Repositorios Github\CSharp-Alura\CSharp-Alura\DesafioListForEach\DesafioListForEach\obj\Debug\net8.0\DesafioListForEach.csproj.CoreCompileInputs.cache
+D:\Repositorios Github\CSharp-Alura\CSharp-Alura\DesafioListForEach\DesafioListForEach\obj\Debug\net8.0\DesafioListForEach.sourcelink.json
+D:\Repositorios Github\CSharp-Alura\CSharp-Alura\DesafioListForEach\DesafioListForEach\obj\Debug\net8.0\DesafioListForEach.dll
+D:\Repositorios Github\CSharp-Alura\CSharp-Alura\DesafioListForEach\DesafioListForEach\obj\Debug\net8.0\refint\DesafioListForEach.dll
+D:\Repositorios Github\CSharp-Alura\CSharp-Alura\DesafioListForEach\DesafioListForEach\obj\Debug\net8.0\DesafioListForEach.pdb
+D:\Repositorios Github\CSharp-Alura\CSharp-Alura\DesafioListForEach\DesafioListForEach\obj\Debug\net8.0\DesafioListForEach.genruntimeconfig.cache
+D:\Repositorios Github\CSharp-Alura\CSharp-Alura\DesafioListForEach\DesafioListForEach\obj\Debug\net8.0\ref\DesafioListForEach.dll
