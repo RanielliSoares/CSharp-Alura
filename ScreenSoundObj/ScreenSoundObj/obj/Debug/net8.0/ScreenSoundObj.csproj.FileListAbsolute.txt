@@ -1,0 +1,15 @@
+D:\Repositorios Github\CSharp-Alura\CSharp-Alura\ScreenSoundObj\ScreenSoundObj\bin\Debug\net8.0\ScreenSoundObj.exe
+D:\Repositorios Github\CSharp-Alura\CSharp-Alura\ScreenSoundObj\ScreenSoundObj\bin\Debug\net8.0\ScreenSoundObj.deps.json
+D:\Repositorios Github\CSharp-Alura\CSharp-Alura\ScreenSoundObj\ScreenSoundObj\bin\Debug\net8.0\ScreenSoundObj.runtimeconfig.json
+D:\Repositorios Github\CSharp-Alura\CSharp-Alura\ScreenSoundObj\ScreenSoundObj\bin\Debug\net8.0\ScreenSoundObj.dll
+D:\Repositorios Github\CSharp-Alura\CSharp-Alura\ScreenSoundObj\ScreenSoundObj\bin\Debug\net8.0\ScreenSoundObj.pdb
+D:\Repositorios Github\CSharp-Alura\CSharp-Alura\ScreenSoundObj\ScreenSoundObj\obj\Debug\net8.0\ScreenSoundObj.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios Github\CSharp-Alura\CSharp-Alura\ScreenSoundObj\ScreenSoundObj\obj\Debug\net8.0\ScreenSoundObj.AssemblyInfoInputs.cache
+D:\Repositorios Github\CSharp-Alura\CSharp-Alura\ScreenSoundObj\ScreenSoundObj\obj\Debug\net8.0\ScreenSoundObj.AssemblyInfo.cs
+D:\Repositorios Github\CSharp-Alura\CSharp-Alura\ScreenSoundObj\ScreenSoundObj\obj\Debug\net8.0\ScreenSoundObj.csproj.CoreCompileInputs.cache
+D:\Repositorios Github\CSharp-Alura\CSharp-Alura\ScreenSoundObj\ScreenSoundObj\obj\Debug\net8.0\ScreenSoundObj.sourcelink.json
+D:\Repositorios Github\CSharp-Alura\CSharp-Alura\ScreenSoundObj\ScreenSoundObj\obj\Debug\net8.0\ScreenSoundObj.dll
+D:\Repositorios Github\CSharp-Alura\CSharp-Alura\ScreenSoundObj\ScreenSoundObj\obj\Debug\net8.0\refint\ScreenSoundObj.dll
+D:\Repositorios Github\CSharp-Alura\CSharp-Alura\ScreenSoundObj\ScreenSoundObj\obj\Debug\net8.0\ScreenSoundObj.pdb
+D:\Repositorios Github\CSharp-Alura\CSharp-Alura\ScreenSoundObj\ScreenSoundObj\obj\Debug\net8.0\ScreenSoundObj.genruntimeconfig.cache
+D:\Repositorios Github\CSharp-Alura\CSharp-Alura\ScreenSoundObj\ScreenSoundObj\obj\Debug\net8.0\ref\ScreenSoundObj.dll
