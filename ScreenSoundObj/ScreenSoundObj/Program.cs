@@ -36,3 +36,7 @@ albumDoQueen.ExibirMusicasDoAlbum();
 baroesPisada.AdicionarAlbum(albumDoBaroes);
 baroesPisada.ExibirDiscografia();
 albumDoBaroes.ExibirMusicasDoAlbum();
+
+musica3.ExibirFichaTecnica();
+musica2.ExibirFichaTecnica();
+musica1.ExibirFichaTecnica();

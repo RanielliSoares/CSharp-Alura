@@ -14,13 +14,13 @@
     public Genero Genero { get; set; }
 
     //uma arrow function é conhecida como lambda no C#
-    public string DescricaoResumida => $"A Música {Nome} pertence a banda {Artista}";
+    public string DescricaoResumida => $"A Música {Nome} pertence a banda {Artista.Nome}";
 
 
     public void ExibirFichaTecnica()
     {
         Console.WriteLine($"\nNome: {Nome}");
-        Console.WriteLine($"Artista: {Artista}");
+        Console.WriteLine($"Artista: {Artista.Nome}");
         Console.WriteLine($"Duração: {Duracao}");
         if (Disponivel)
         {
