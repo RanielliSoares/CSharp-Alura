@@ -20,4 +20,8 @@
         }
         
     }
+    public void ExibirDadosArtista()
+    {
+        Console.WriteLine($"\nNome: {nome} - {artista}");
+    }
 }
