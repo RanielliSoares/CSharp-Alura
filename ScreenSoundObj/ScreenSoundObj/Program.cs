@@ -1,17 +1,42 @@
-﻿Musica musica1 =new Musica();
-musica1.nome = "Aquarela";
-musica1.artista = "João de Barro";
-musica1.duracao = 273;
-musica1.disponivel = true;
+﻿Banda queen = new Banda("Queen");
+
+Banda baroesPisada = new Banda("Baroes da Pisadinha");
+
+Album albumDoQueen = new Album("A night at the opera");
+
+Album albumDoBaroes = new Album("Bagunça e Festa");
+
+Musica musica1 = new Musica(queen, "Love of my life")
+{
+    Duracao = 213,
+    Disponivel = true
+};
 
 
-Musica musica2 = new Musica();
-musica2.nome = "Roxane";
-musica2.artista = "The Police";
-musica2.duracao = 367;
-musica2.disponivel = false;
+Musica musica2 = new Musica(queen, "Bohemian Rhapsody")
+{
+    Duracao = 314,
+    Disponivel = true
+};
 
-musica1.ExibirFichaTecnica();
+Musica musica3 = new Musica(baroesPisada, "Fiesta Loca")
+{
+    Duracao = 527,
+    Disponivel = true
+};
+
+albumDoQueen.AdicionarMusica(musica1);
+albumDoQueen.AdicionarMusica(musica2);
+albumDoBaroes.AdicionarMusica(musica3);
+
+queen.AdicionarAlbum(albumDoQueen);
+queen.ExibirDiscografia();
+albumDoQueen.ExibirMusicasDoAlbum();
+
+baroesPisada.AdicionarAlbum(albumDoBaroes);
+baroesPisada.ExibirDiscografia();
+albumDoBaroes.ExibirMusicasDoAlbum();
+
+musica3.ExibirFichaTecnica();
 musica2.ExibirFichaTecnica();
-
-
+musica1.ExibirFichaTecnica();
