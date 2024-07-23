@@ -34,6 +34,6 @@
     }
     public void ExibirDadosArtista()
     {
-        Console.WriteLine($"\nNome: {nome} - {artista}");
+        Console.WriteLine($"\nNome: {Nome} - {Artista.Nome}");
     }
 }
