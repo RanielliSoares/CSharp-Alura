@@ -1,4 +1,5 @@
-﻿class Musica
+﻿namespace ScreenSoundApp.Modelos;
+class Musica
 {
     public Musica(Banda artista, string nome)
     {
@@ -11,7 +12,7 @@
     public int Duracao { get; set; }
     public bool Disponivel { get; set; }
 
-    public Genero Genero { get; set; }
+   // public Genero Genero { get; set; }
 
     //uma arrow function é conhecida como lambda no C#
     public string DescricaoResumida => $"A Música {Nome} pertence a banda {Artista.Nome}";

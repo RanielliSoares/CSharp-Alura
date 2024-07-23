@@ -1,4 +1,5 @@
-﻿class Banda
+﻿namespace ScreenSoundApp.Modelos;
+class Banda
 {
 
     public Banda(string nome)

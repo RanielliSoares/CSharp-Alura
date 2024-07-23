@@ -1,6 +1,8 @@
-﻿// Screen Sound
+﻿using ScreenSoundApp.Modelos;
+
+Banda Ira = new Banda("IRA");
+
 string mensagemDeBoasVindas = "Boas vindas ao Screen Sound";
-//List<string> listaDasBandas = new List<string> { "U2", "The Beatles", "Calypso" };
 Dictionary<string, List<int>> bandasRegistradas = new Dictionary<string, List<int>>();
 bandasRegistradas.Add("Linkin Park", new List<int> {10,8,6 });
 bandasRegistradas.Add("Pink Floyd", new List<int> { 9,8,4 });
