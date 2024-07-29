@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ScreenSoundApp
-build_property.ProjectDir = C:\ReposAlura\CSharp-Alura\ScreenSoundAppObjAvancado\ScreenSoundApp\
+build_property.ProjectDir = D:\Repositorios Github\CSharp-Alura\CSharp-Alura\ScreenSoundAppObjAvancado\ScreenSoundApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
