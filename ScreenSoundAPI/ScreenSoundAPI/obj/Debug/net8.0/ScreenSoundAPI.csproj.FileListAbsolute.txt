@@ -1,0 +1,15 @@
+C:\ReposAlura\CSharp-Alura\ScreenSoundAPI\ScreenSoundAPI\bin\Debug\net8.0\ScreenSoundAPI.exe
+C:\ReposAlura\CSharp-Alura\ScreenSoundAPI\ScreenSoundAPI\bin\Debug\net8.0\ScreenSoundAPI.deps.json
+C:\ReposAlura\CSharp-Alura\ScreenSoundAPI\ScreenSoundAPI\bin\Debug\net8.0\ScreenSoundAPI.runtimeconfig.json
+C:\ReposAlura\CSharp-Alura\ScreenSoundAPI\ScreenSoundAPI\bin\Debug\net8.0\ScreenSoundAPI.dll
+C:\ReposAlura\CSharp-Alura\ScreenSoundAPI\ScreenSoundAPI\bin\Debug\net8.0\ScreenSoundAPI.pdb
+C:\ReposAlura\CSharp-Alura\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net8.0\ScreenSoundAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReposAlura\CSharp-Alura\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net8.0\ScreenSoundAPI.AssemblyInfoInputs.cache
+C:\ReposAlura\CSharp-Alura\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net8.0\ScreenSoundAPI.AssemblyInfo.cs
+C:\ReposAlura\CSharp-Alura\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net8.0\ScreenSoundAPI.csproj.CoreCompileInputs.cache
+C:\ReposAlura\CSharp-Alura\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net8.0\ScreenSoundAPI.sourcelink.json
+C:\ReposAlura\CSharp-Alura\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net8.0\ScreenSoundAPI.dll
+C:\ReposAlura\CSharp-Alura\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net8.0\refint\ScreenSoundAPI.dll
+C:\ReposAlura\CSharp-Alura\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net8.0\ScreenSoundAPI.pdb
+C:\ReposAlura\CSharp-Alura\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net8.0\ScreenSoundAPI.genruntimeconfig.cache
+C:\ReposAlura\CSharp-Alura\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net8.0\ref\ScreenSoundAPI.dll
