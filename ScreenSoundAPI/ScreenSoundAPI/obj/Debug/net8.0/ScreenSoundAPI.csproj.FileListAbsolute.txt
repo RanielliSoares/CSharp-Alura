@@ -13,3 +13,18 @@ C:\ReposAlura\CSharp-Alura\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net8.0\refint
 C:\ReposAlura\CSharp-Alura\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net8.0\ScreenSoundAPI.pdb
 C:\ReposAlura\CSharp-Alura\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net8.0\ScreenSoundAPI.genruntimeconfig.cache
 C:\ReposAlura\CSharp-Alura\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net8.0\ref\ScreenSoundAPI.dll
+D:\Repositorios Github\CSharp-Alura\ScreenSoundAPI\ScreenSoundAPI\bin\Debug\net8.0\ScreenSoundAPI.exe
+D:\Repositorios Github\CSharp-Alura\ScreenSoundAPI\ScreenSoundAPI\bin\Debug\net8.0\ScreenSoundAPI.deps.json
+D:\Repositorios Github\CSharp-Alura\ScreenSoundAPI\ScreenSoundAPI\bin\Debug\net8.0\ScreenSoundAPI.runtimeconfig.json
+D:\Repositorios Github\CSharp-Alura\ScreenSoundAPI\ScreenSoundAPI\bin\Debug\net8.0\ScreenSoundAPI.dll
+D:\Repositorios Github\CSharp-Alura\ScreenSoundAPI\ScreenSoundAPI\bin\Debug\net8.0\ScreenSoundAPI.pdb
+D:\Repositorios Github\CSharp-Alura\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net8.0\ScreenSoundAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios Github\CSharp-Alura\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net8.0\ScreenSoundAPI.AssemblyInfoInputs.cache
+D:\Repositorios Github\CSharp-Alura\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net8.0\ScreenSoundAPI.AssemblyInfo.cs
+D:\Repositorios Github\CSharp-Alura\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net8.0\ScreenSoundAPI.csproj.CoreCompileInputs.cache
+D:\Repositorios Github\CSharp-Alura\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net8.0\ScreenSoundAPI.sourcelink.json
+D:\Repositorios Github\CSharp-Alura\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net8.0\ScreenSoundAPI.dll
+D:\Repositorios Github\CSharp-Alura\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net8.0\refint\ScreenSoundAPI.dll
+D:\Repositorios Github\CSharp-Alura\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net8.0\ScreenSoundAPI.pdb
+D:\Repositorios Github\CSharp-Alura\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net8.0\ScreenSoundAPI.genruntimeconfig.cache
+D:\Repositorios Github\CSharp-Alura\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net8.0\ref\ScreenSoundAPI.dll
