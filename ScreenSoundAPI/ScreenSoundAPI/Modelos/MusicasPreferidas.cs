@@ -41,4 +41,18 @@ internal class MusicasPreferidas
 
         Console.WriteLine($"Arquivo Json foi criado com sucesso na pasta {Path.GetFullPath(nomeDoArquivo)}");
     }
+
+    public void GerarDocumentoTXTComAsMusicasFavoritas()
+    {
+        string nomeDoArquivo = $"musicas-favoritas-{Nome}.txt";
+        using (StreamWriter arquivo = new StreamWriter(nomeDoArquivo))
+        {
+            arquivo.WriteLine($"Músicas favoritas do {Nome}\n");
+            foreach (var musica in ListaDeMusicasFavoritas)
+            {
+                arquivo.WriteLine($"- {musica.Nome}");
+            }
+        }
+        Console.WriteLine("txt gerado com sucesso!");
+    }
 }
