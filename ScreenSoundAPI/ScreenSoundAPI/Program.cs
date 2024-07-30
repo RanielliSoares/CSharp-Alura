@@ -43,6 +43,11 @@ using (HttpClient client = new HttpClient())
         musicasPreferidasDoJoao.AdicionarMusicasFavoritas(musicas[710]);
         musicasPreferidasDoJoao.AdicionarMusicasFavoritas(musicas[526]);
         musicasPreferidasDoJoao.AdicionarMusicasFavoritas(musicas[1051]);
+        musicasPreferidasDoJoao.AdicionarMusicasFavoritas(musicas[1052]);
+        musicasPreferidasDoJoao.AdicionarMusicasFavoritas(musicas[1085]);
+        musicasPreferidasDoJoao.AdicionarMusicasFavoritas(musicas[190]);
+        musicasPreferidasDoJoao.AdicionarMusicasFavoritas(musicas[111]);
+        musicasPreferidasDoJoao.AdicionarMusicasFavoritas(musicas[105]);
 
         musicasPreferidasDoJoao.ExibirMusicasFavoritas();
 
