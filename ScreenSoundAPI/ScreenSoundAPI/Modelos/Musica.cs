@@ -17,12 +17,16 @@ namespace ScreenSoundAPI.Modelos
         [JsonPropertyName("genre")]
         public string? Genero { get; set; }
 
+        [JsonPropertyName("key")]
+        public int Chave { get; set; }
+
         public void ExibirDetalhesDaMusica()
         {
             Console.WriteLine($"Artista: {Artista}");
             Console.WriteLine($"Música: {Nome}");
             Console.WriteLine($"Gênero: {Genero}");
-            Console.WriteLine($"Duração: {Duracao /1000}s\n");
+            Console.WriteLine($"Duração: {Duracao /1000}s");
+            Console.WriteLine($"Tonalidade recebida: {Chave}\n");
 
         }
     }
