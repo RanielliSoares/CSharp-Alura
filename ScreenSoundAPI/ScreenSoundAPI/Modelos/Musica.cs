@@ -5,6 +5,7 @@ namespace ScreenSoundAPI.Modelos
     internal class Musica
     {
 
+        
         [JsonPropertyName("song")]
         public string? Nome {  get; set; }
 
@@ -20,6 +21,21 @@ namespace ScreenSoundAPI.Modelos
         [JsonPropertyName("key")]
         public int Chave { get; set; }
 
+
+        // ** Solução sugerida pela alura das tonalidades
+        //Criar o array abaixo:
+        private string[] tonalidades = { "C", "C#", "D", "Eb", "E", "F", "F#", "G", "Ab", "A", "Bb", "B" };
+        // Depois criar uma property igual a abaixo
+        public string Tonalidade
+        {
+            get
+            {
+                return tonalidades[Chave];
+            }
+        }
+        /*
+         após isso quando for chamar, chamar a property tonalidade nelá irá vir o indice da key
+         */
         public void ExibirDetalhesDaMusica()
         {
             Console.WriteLine($"Artista: {Artista}");

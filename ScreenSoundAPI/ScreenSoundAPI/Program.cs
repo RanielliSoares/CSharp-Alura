@@ -10,7 +10,7 @@ using (HttpClient client = new HttpClient())
         string resposta = await client.GetStringAsync("https://guilhermeonrails.github.io/api-csharp-songs/songs.json");
         var musicas = JsonSerializer.Deserialize<List<Musica>>(resposta)!;
 
-       
+        LinqFilter.FiltrarMusicasPorTonalidade(musicas, 8);
         /*****
         Abaixo temos alguns filtros criados com LINQ
         Filtra todos os generos musicais
@@ -30,7 +30,7 @@ using (HttpClient client = new HttpClient())
             }
         }
         
-        */
+        
         var musicasPreferidasDoDaniel = new MusicasPreferidas("Daniel");
         musicasPreferidasDoDaniel.AdicionarMusicasFavoritas(musicas[1]);
         musicasPreferidasDoDaniel.AdicionarMusicasFavoritas(musicas[2]);
@@ -55,7 +55,7 @@ using (HttpClient client = new HttpClient())
         musicasPreferidasDoJoao.GerarArquivoJson();
 
                   musicasPreferidasDoDaniel.GerarDocumentoTXTComAsMusicasFavoritas();
-       
+       */
     }
     catch (Exception ex)
     {

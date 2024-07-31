@@ -23,5 +23,14 @@ internal class LinqFilter
             Console.WriteLine($"- {musica.Nome}");
         }
     }
+
+    public static void FiltrarMusicasPorTonalidade(List<Musica> musicas, int key)
+    {
+        var musicasPorTonalidade = musicas.Where(musica => musica.Chave!.Equals(key)).ToList();
+        foreach (var musica in musicasPorTonalidade)
+        {
+            Console.WriteLine($"- {musica.Nome} Tonalidade {musica.Tonalidade}");
+        }
+    }
 }
 
